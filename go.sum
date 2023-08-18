@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/vemta/common v1.0.0 h1:PKZ0E6WqoY1K0nQXU1iLXOf4a1GQQFHoiyXiZKooV7U=
+github.com/vemta/common v1.0.0/go.mod h1:zd7d1t29d+Bt7jVVc70ruY5pgd7hZ+iqirIkfH2lHsk=
